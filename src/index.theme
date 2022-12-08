@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Matangi
+Comment=A flat theme based on Matangi. 
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Matangi
+IconTheme=Annapurna
+MetacityTheme=Matangi
+ButtonLayout=:minimize,maximize,close
